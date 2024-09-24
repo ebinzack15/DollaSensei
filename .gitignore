@@ -1,0 +1,110 @@
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Test artifacts
+*.cover
+coverage.xml
+*.log
+.cache/
+nosetests.xml
+coverage/
+.tox/
+.pytest_cache/
+junitxml/
+
+# MyPy artifacts
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# IDE files (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files
+*.csv
+*.tsv
+*.xml
+*.xlsx
+*.h5
+*.feather
+*.parquet
+*.db
+*.sqlite3
+*.sav
+*.dta
+
+# Large files
+*.zip
+*.tar.gz
+*.tar
+*.rar
+*.7z
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Anaconda files
+.conda
+*.condarc
+*.conda-env
+*.yaml
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Environment variables
+.env
+.env.*
+
+# Pipfile specific files
+Pipfile.lock
+
+# Machine learning models
+*.pkl
+*.joblib
+*.h5
+*.model
